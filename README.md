@@ -37,9 +37,9 @@
 
 ---
 
-### 💼 Work Experience
+### 💼 Intership Experience
 
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
+🟢 **Mern Stack** @ Dr. Reddy’s Foundation  
 🔵 **Technical Trainer** @ MGI  
 🔵 **Member Technical** @ ADP Pvt. Ltd.  
 🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
@@ -173,6 +173,6 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 
 ---
 
-### ⚡ Fun Fact last
+### ⚡ Fun Fact
 > “Code. Debug. Repeat. 🚀”
 
