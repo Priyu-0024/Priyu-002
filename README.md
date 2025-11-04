@@ -40,9 +40,9 @@
 ### 💼 Intership Experience
 
 🟢 **Mern Stack** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
+🔵 **Duration-** @ [30 oct 2025- 30 jun 2025}
+🔵 **Built and deploy dynamic web projects using the Mern Stack** @ ADP Pvt. Ltd.  
+🔴 **Worked in a team environment to deliver scalable and maintable code** @ Wipro Pvt. Ltd.  
 🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
 
 ---
