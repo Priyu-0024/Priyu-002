@@ -42,7 +42,7 @@
 <li>🔵 **Mern Stack** @ Dr. Reddy’s Foundation</li>  
 <li>🔵 **Duration-** @ [30 oct 2025- 30 jun 2025}</li>
 <li>🔵 **Built and deploy dynamic web projects using the Mern Stack** </li>
-<li>🔴 **Worked in a team environment to deliver scalable and maintable code** </li>
+<li>🔵  **Worked in a team environment to deliver scalable and maintable code** </li>
 </ul>
 ---
 
