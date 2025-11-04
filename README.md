@@ -173,6 +173,6 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact last
 > “Code. Debug. Repeat. 🚀”
 
