@@ -1,6 +1,6 @@
  <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Priyanka Rathod%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Priyanka%20Rathod%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
@@ -173,5 +173,5 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 ---
 
 ### ⚡ Fun Fact
-> “Code. Debug. Repeat. 🚀”last
+> “Code. Debug. Repeat. 🚀”
 
